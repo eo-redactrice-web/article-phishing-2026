@@ -16,13 +16,11 @@ Si ces messages fonctionnent encore, ce n’est pas parce que les utilisateurs s
 
 ## En bref
 
-<div align="justify">
-- Les <strong>messages de phishing</strong> sont aujourd’hui beaucoup plus crédibles  
-- Les attaques sont devenues <strong>professionnelles</strong> et organisées  
-- L’IA renforce leur <strong>réalisme</strong> et leur personnalisation  
-- Les attaquants exploitent avant tout le <strong>facteur humain</strong>  
-- Des réflexes simples permettent malgré tout de <strong>limiter fortement les risques</strong>
-</div>
+- Les **messages de phishing** sont aujourd’hui beaucoup plus crédibles  
+- Les attaques sont devenues **professionnelles** et organisées  
+- L’IA renforce leur **réalisme** et leur personnalisation  
+- Les attaquants exploitent avant tout le **facteur humain**  
+- Des réflexes simples permettent malgré tout de **limiter fortement les risques**
 
 ---
 
