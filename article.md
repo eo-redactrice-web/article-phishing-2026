@@ -47,8 +47,6 @@ Pris séparément, ces éléments peuvent passer inaperçus. Mais mis bout à bo
 ### Ce qui a réellement changé
 </div>
 
-<br><br>
-
 | Message reçu | Bonne action |
 |--------------|--------------|
 | SMS « colis bloqué » | Ouvrir le site officiel manuellement |
