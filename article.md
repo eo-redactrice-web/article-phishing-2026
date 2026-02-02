@@ -17,11 +17,11 @@ Si ces messages fonctionnent encore, ce n’est pas parce que les utilisateurs s
 ## En bref
 
 <div align="justify">
-- Les <strong>messages de phishing</strong> sont devenus beaucoup plus crédibles  
-- Les attaques sont désormais <strong>professionnelles</strong> et organisées  
+- Les <strong>messages de phishing</strong> sont aujourd’hui beaucoup plus crédibles  
+- Les attaques sont devenues <strong>professionnelles</strong> et organisées  
 - L’IA renforce leur <strong>réalisme</strong> et leur personnalisation  
 - Les attaquants exploitent avant tout le <strong>facteur humain</strong>  
-- Des réflexes simples permettent de <strong>limiter fortement les risques</strong>
+- Des réflexes simples permettent malgré tout de <strong>limiter fortement les risques</strong>
 </div>
 
 ---
@@ -45,11 +45,6 @@ Pris séparément, ces éléments peuvent passer inaperçus. Mais mis bout à bo
 </div>
 
 ### Ce qui a réellement changé
-</div>
-
-| Message reçu | Bonne action |
-|--------------|--------------|
-| SMS « colis bloqué » | Ouvrir le site officiel manuellement |
 
 | Ce que vous observez | Avant | Aujourd’hui |
 |---------------------|-------|-------------|
@@ -88,7 +83,7 @@ Mais malgré ces avancées technologiques, la technologie n’est qu’un outil.
 </div>
 
 <div align="justify">
-Les attaquants cherchent avant tout à provoquer une <strong>réaction impulsive</strong>. Leur objectif n’est pas que vous réfléchissiez, mais que <strong>vous agissiez immédiatement</strong>. Ils cherchent à empêcher votre cerveau de prendre du recul.
+Les attaquants cherchent avant tout à provoquer une <strong>réaction impulsive</strong>. Leur objectif n’est pas que vous réfléchissiez, mais que <strong>vous agissiez immédiatement</strong>, avant même d’avoir le temps de prendre du recul.
 </div>
 
 <div align="justify">
@@ -149,11 +144,13 @@ La règle est simple : <strong>ne pas cliquer</strong>, ne pas répondre, ne pas
 Avant d’agir, prenez quelques secondes. Ce délai est essentiel pour casser l’<strong>impulsion</strong>. Si l’information est réelle, <strong>elle sera disponible ailleurs</strong>, directement sur le site officiel ou dans votre espace client.
 </div>
 
+<br><br>
+
 | Message reçu | Bonne action |
 |--------------|--------------|
 | SMS « colis bloqué » | Ouvrir le site officiel manuellement |
-| Mail des impôts | Se connecter via impots.gouv.fr |
-| Notification bancaire | Ouvrir l’application bancaire |
+| Mail des impôts demandant une action urgente | Se connecter directement via impots.gouv.fr |
+| Notification bancaire demandant un code | Ouvrir l’application bancaire, jamais le lien |
 
 <div align="justify">
 Un organisme légitime <strong>ne menace pas par SMS</strong> et laisse toujours une trace dans votre espace client.
@@ -162,7 +159,7 @@ Un organisme légitime <strong>ne menace pas par SMS</strong> et laisse toujours
 ### Signaler et bloquer l’expéditeur
 
 <div align="justify">
-Une fois le doute levé, <strong>signaler le message</strong> permet d’améliorer les filtres et de protéger d’autres utilisateurs.
+Une fois le doute levé, <strong>signaler le message</strong> permet d’améliorer les filtres, de réduire les attaques futures et de protéger d’autres utilisateurs.
 </div>
 
 ---
