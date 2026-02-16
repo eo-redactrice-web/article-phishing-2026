@@ -116,7 +116,8 @@ Concrètement, même si quelqu’un connaît votre mot de passe, il lui faudra a
 
 Dans les jours qui suivent, **surveillez vos comptes** et signalez toute **activité inhabituelle**. Par exemple, un paiement que vous ne reconnaissez pas, une **connexion depuis un pays étranger** ou un email de confirmation que vous n’avez jamais demandé doivent vous alerter. **Contactez immédiatement votre banque** ou le service concerné pour bloquer l’accès.
 
-En résumé
+### En résumé
+
 
 Le phishing ne repose plus sur des **erreurs évidentes**, mais sur des **réactions humaines prévisibles**, déclenchées au bon moment. **Ralentir, vérifier l’information à la source** et appliquer **quelques réflexes simples** permet déjà de **réduire fortement les risques**. À force de les appliquer, ces réflexes deviennent plus automatiques.
 
